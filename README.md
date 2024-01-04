@@ -6,7 +6,7 @@
 
 <
 
-👉 Live Demo: <a href=''>Gymate Demo</a>
+👉 Live Demo: <a href='https://gymate-red.vercel.app/'>Gymate Demo</a>
 
 <h3>Build with:</h3>
 
